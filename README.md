@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone git@github.com:rahimialijan/Space-Travelers-Hub.git
+  git clone git@github.com:AleWaweru/Space-Travelers-Hub.git
   git checkout project-setup
 
 ```
@@ -119,11 +119,6 @@ You can deploy this project using **[Render](https://render.com/)**
 
 > Mention all of the collaborators of this project.
 
-👤 **Alijan Rahimi**
-
-- GitHub: [@Alijan-Rahimi](https://github.com/rahimialijan)
-- Twitter: [@AlijanRahimi10](https://twitter.com/AlijanRahimi10)
-- LinkedIn: [Alijan-Rahimi](https://www.linkedin.com/in/alijan-rahimi-18389ab3)
 
 👤 **Alex**
 
